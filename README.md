@@ -1,0 +1,2 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Mochiy+Pop+One&size=29&duration=4948&pause=995&color=CD1C8ED7&background=F4F4F400&center=true&vCenter=true&multiline=true&random=false&width=454&lines=Hello+there!+I'm+B%C3%A1rbara%2C%F0%9F%91%8B+++;Junior+Front-end+dev+%09%F0%9F%A4%A9;Welcome+to+my+little+place!%F0%9F%98%B6%E2%80%8D%F0%9F%8C%AB%EF%B8%8F)](https://git.io/typing-svg)
+![GIF de Giphy](https://media.giphy.com/media/f62ND8oLgsZRaozssi/giphy.gif)
