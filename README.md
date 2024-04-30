@@ -21,6 +21,13 @@
   </div>
 
   <div style="margin-top: 20px; font-family: 'Mochiy Pop One', sans-serif; font-size: 20px;">
-    <a href="https://barbarabravoredondo.github.io/My-Portfolio" style="color: #CD1C8E; text-decoration: none;">Click to visit my Portfolio</a>
+  
+  
+| <a href="https://github.com/BarbaraBravoRedondo/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=BarbaraBravoRedondo&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/BarbaraBravoRedondo/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BarbaraBravoRedondo&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+  <a href="https://barbarabravoredondo.github.io/My-Portfolio" style="color: #CD1C8E; text-decoration:none ;">Click to visit my Portfolio</a>
   </div>
 </div>
+
+
